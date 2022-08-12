@@ -8,8 +8,6 @@
 
         </div>
     </div>
-
-    <mailmesssage :messages="resultQuery"></mailmesssage>
 </div>
 </template>
 

@@ -132,24 +132,7 @@ export default [
         },
         attachments: []
     },
-    {
-        subject: 'Your video is live!',
-        content: `
-            <p>Hey Coding Explained,</p>
-            <p>Your video titled "Why Vue.js is Awesome" is now live on YouTube!</p>
-            <p>You can find it here: <a href="#">https://youtu.be/watch?v=hg23hgls</a></p>
-        `,
-        isImportant: false,
-        isDeleted: false,
-        isRead: true,
-        type: 'incoming',
-        date: moment().subtract(8, 'months'),
-        from: {
-            name: 'YouTube',
-            email: 'video@youtube.com'
-        },
-        attachments: []
-    },
+    
     
     {
         subject: 'Thank you for your purchase',
