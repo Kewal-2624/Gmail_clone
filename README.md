@@ -1,4 +1,4 @@
-# appmail
+
 
 > A Vue.js project
 
